@@ -15,4 +15,4 @@ let imc = 0
 imc = peso / (altura * altura)
 
 console.log(" Olá " +nome+ " vimos que você têm " +idade+ " anos, seu peso é de " +peso+ "Kg e sua altura é de " 
-+altura+ "M, também temos se IMC, que é de " +imc+ "kg/m2. Obrigado!!") 
++altura+ "M, também temos seu IMC, que é de " +imc+ "kg/m2. Obrigado!!") 
